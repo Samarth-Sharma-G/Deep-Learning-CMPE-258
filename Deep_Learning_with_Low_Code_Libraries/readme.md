@@ -32,4 +32,11 @@
   - Inference with a pre-trained classifier
   - Fine-tuning a pre-trained backbone
   - Training an image classifier from scratch
-  - train custom object detection model (using YOLO)
+  - Draw inference from pre-trained and then train custom object detection model (using YOLO)
+
+  Sneak Peak into the results:
+  
+  ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/5983c70a-e706-48ec-922c-5dd0a11218fd)
+  ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/430a1611-74a0-4a50-979b-93668c02beb2)
+
+
