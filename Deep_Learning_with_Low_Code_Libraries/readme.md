@@ -29,14 +29,15 @@
 
 4) User Keras-CV for various vision tasks
 
-  - Inference with a pre-trained classifier
-  - Fine-tuning a pre-trained backbone
-  - Training an image classifier from scratch
+  - Inference with a pre-trained classifier: Detecting a Lion
+  - Fine-tuning a pre-trained backbone: Fintuned efficientnetv2_b0_imagenet to classify cells into Malaria infected or not.
+  - Training an image classifier from scratch: Trained a classifier for the Fashion Mnist Data
   - Draw inference from pre-trained and then train custom object detection model (using YOLO)
 
   Sneak Peak into the results:
-  
-  ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/5983c70a-e706-48ec-922c-5dd0a11218fd)
-  ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/430a1611-74a0-4a50-979b-93668c02beb2)
+
+  ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/a3807b46-60e2-4611-822e-058417560e3f)
+
+
 
 
