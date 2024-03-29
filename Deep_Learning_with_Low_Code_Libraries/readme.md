@@ -11,15 +11,15 @@
 
 
 ## 2) Hugging Face Transformers API:
-  - Text classification
-  - Named entity recognition
-  - Question answering
-  - Text summarization
-  - Translation
-  - Zero-shot classification
-  - Computer vision
-  - Audio
-  - Table QA
+  - Text classification: Sentiment Analysis
+  - Named entity recognition: ner for a random sentence
+  - Question answering: Open Domain QA
+  - Text summarization: Summarization 
+  - Translation: Chinese to English
+  - Zero-shot classification: segmenting the input into user defined labels
+  - Computer vision: Detecting a Cat
+  - Audio: Sentiment analysis based on Audio
+  - Table QA: QA for a custom built table
 
 ## 3) Keras-NLP for:
    
@@ -30,10 +30,7 @@
   - Fine-tuning with user-controlled preprocessing - Used bert_large_en_uncased for preprocessing and then finetuned bert_tiny_en_uncased - 88.5% (Preprocessing matters a lot to take that last leap.)
   - Fine-tuning custom model - 73.5% (this is actually a decent performance given the custom model had 5% training parameters in comparision to bert_tiny_en_uncased, and about the same training time.)
 
-    
 
-    Performance: 
-    - bert_tiny_en_uncased_sst2 - 81.2% (Note: amazing p)
 
 ## 4) User Keras-CV for various vision tasks
 
