@@ -1,6 +1,6 @@
 # Deep Learning with Low Code Libraries
 
-1) Fastai for:
+## 1) Fastai for:
   - vision object detection task: Animal Detector
   - vision segmentation task: Dashcam Video Image Segmentation
   - tabular task: Classifier for Iris Flower Species Data
@@ -10,7 +10,7 @@
     ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/64ea13eb-49aa-4d82-84c9-5368c71b533d)
 
 
-2) Hugging Face Transformers API:
+## 2) Hugging Face Transformers API:
   - Text classification
   - Named entity recognition
   - Question answering
@@ -21,13 +21,21 @@
   - Audio
   - Table QA
 
-3) Keras-NLP for:
-  - Inference with a pre-trained classifier
-  - Fine-tuning a pre-trained backbone
-  - Fine-tuning with user-controlled preprocessing
-  - Fine-tuning custom modes
+## 3) Keras-NLP for:
+   
+   Used bert_tiny_en_uncased through out for easier comparision of performance on our Sentiment dataset:
+   
+  - Inference with a pre-trained classifier: - bert_tiny_en_uncased_sst2 - 81.2% (really good without any training/finetuning)
+  - Fine-tuning a pre-trained backbone - bert_tiny_en_uncased - 87% (after being finetuned for 6 epochs, some good progress)
+  - Fine-tuning with user-controlled preprocessing - Used bert_large_en_uncased for preprocessing and then finetuned bert_tiny_en_uncased - 88.5% (Preprocessing matters a lot to take that last leap.)
+  - Fine-tuning custom model - 73.5% (this is actually a decent performance given the custom model had 5% training parameters in comparision to bert_tiny_en_uncased, and about the same training time.)
 
-4) User Keras-CV for various vision tasks
+    
+
+    Performance: 
+    - bert_tiny_en_uncased_sst2 - 81.2% (Note: amazing p)
+
+## 4) User Keras-CV for various vision tasks
 
   - Inference with a pre-trained classifier: Detecting a Lion
   - Fine-tuning a pre-trained backbone: Fintuned efficientnetv2_b0_imagenet to classify cells into Malaria infected or not.
