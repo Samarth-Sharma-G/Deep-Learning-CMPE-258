@@ -21,7 +21,7 @@
 ### Pytorch
   - Pytorch without builtin functions
   - Pytorch with builtin functions
-  - Pytorch high level APIs
+  - Pytorch Lightning Version
 
 ### Tensorflow
   - Tensorflow from scratch
