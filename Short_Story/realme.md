@@ -9,7 +9,7 @@ This Short Story Covers:
 - Prominent LLMs, Performances and Benchmarks
 - Future Scopes and Challenges
 
-Medium Article Link
+<a href='https://medium.com/@samarthsharma_/short-story-review-of-large-language-models-a-survey-be36b6931e2c'> Medium Article Link </a>
 
 Youtube Video Link 
 
