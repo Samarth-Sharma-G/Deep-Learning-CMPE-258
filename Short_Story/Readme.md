@@ -11,5 +11,5 @@ This Short Story Covers:
 
 <a href='https://medium.com/@samarthsharma_/short-story-review-of-large-language-models-a-survey-be36b6931e2c'> Medium Article Link </a>
 
-Youtube Video Link 
+<a href='https://youtu.be/HalDBGbzopw'> Youtube Video Link </a> 
 
