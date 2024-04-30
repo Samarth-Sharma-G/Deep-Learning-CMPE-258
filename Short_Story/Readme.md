@@ -9,7 +9,10 @@ This Short Story Covers:
 - Prominent LLMs, Performances and Benchmarks
 - Future Scopes and Challenges
 
-<a href='https://medium.com/@samarthsharma_/short-story-review-of-large-language-models-a-survey-be36b6931e2c'> Medium Article Link </a>
+For in depth summary refer the <a href='https://medium.com/@samarthsharma_/short-story-review-of-large-language-models-a-survey-be36b6931e2c'> Medium Article  </a>
 
-<a href='https://youtu.be/HalDBGbzopw'> Youtube Video Link </a> 
+For a Video Demo refer this <a href='https://youtu.be/HalDBGbzopw'> Link </a> 
 
+
+
+![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/76fbdc5a-98a3-4ff4-a606-b0dcd2e60c75)
