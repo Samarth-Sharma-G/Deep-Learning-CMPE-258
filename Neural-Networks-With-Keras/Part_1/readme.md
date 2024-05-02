@@ -1,6 +1,6 @@
 # Data Augmentation and Generalization techniques:
 
-The series of Colabs enlisted here explore data augmentation, generalization, and regularizations applied during neural network implementations. For a detailed explanation covering all the requirements, refer to the demo video <a href = 'https://youtu.be/HalDBGbjnczopw'> here </a>.
+The series of Colabs enlisted here explore data augmentation, generalization, and regularizations applied during neural network implementations. For a detailed explanation covering all the requirements, refer to the demo video <a href = 'https://youtu.be/H_4lmgHsB_s'> here </a>.
 ## Below are sneak peeks to some results:
 
 Tensorboard: 
