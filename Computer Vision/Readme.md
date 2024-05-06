@@ -18,8 +18,7 @@ Performance of Model Trained with Supervised Contrastive Learning
 ### Audio: Audio Classification of Nature Sounds in ESC-10 Dataset using Transfer Learning on MobileNetV2
 ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/57f5d1d2-8425-4f03-bf89-c1f4349de077)
 
-### Text: 
-### Video: 
+### Text: Transfer Learning using textual Sentiment Data on bert_tiny_en_uncased
 
 ##  Zero-Shot Transfer Learning 
 
