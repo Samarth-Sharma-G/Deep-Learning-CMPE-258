@@ -14,7 +14,10 @@ Performance of Model Trained with Supervised Contrastive Learning
 ## Transfer Learning different Modalities
 
 ### Image: Transfer Learning using the cifar10 dataset on pre-trained VGG16 model
-### Audio: Sentiment Analysis through 
+
+### Audio: Audio Classification of Nature Sounds in ESC-10 Dataset using Transfer Learning on MobileNetV2
+![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/57f5d1d2-8425-4f03-bf89-c1f4349de077)
+
 ### Text: 
 ### Video: 
 
