@@ -23,5 +23,8 @@ Performance of Model Trained with Supervised Contrastive Learning
 ### Zero-Shot transfer learning with CLIP model on cifar10 dataset
 ![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/a5dcb540-7c09-4928-a545-5d0c3606b0b2)
 
-### Transfer learning using tfhub
+### Transfer learning for mobilenet_v2 on flowers dataset using tfhub
+
+![image](https://github.com/Samarth-Sharma-G/Deep-Learning-CMPE-258/assets/107587243/575636a1-e249-4709-8a78-f58cebd42151)
+
 
